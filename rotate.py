@@ -14,8 +14,8 @@ def rotate(string, rotation):
 
 #####   tests   #####
 
-rotate('Farmers', 0)
+#rotate('Farmers', 0)
 
-rotate('Farmers', 3)
+#rotate('Farmers', 3)
 
-rotate('Farmers', -3)
+#rotate('Farmers', -3)
