@@ -1,1 +1,5 @@
-If there is one thing that I would change, it would probably be the error messages in C++ and similarly low-level languages. Often, the error messages are helpful and indicate what might be causing a problem, but there are so many exceptions and errors that aren't handled gracefully, and I wish more effort could be spent creating more readable error reports to help with identifying problems. Perhaps my largest barrier to learning C++ in the first place was learning to not get overwhelmed by lengthy messages and dissect which parts of the reports I understood and could look into.
+If there is one thing that I would change, it would probably be the error messages in C++ and similarly low-level languages.
+ Often, the error messages are helpful and indicate what might be causing a problem, but there are so many exceptions and errors
+  that aren't handled gracefully, and I wish more effort could be spent creating more readable error reports to help with
+   identifying problems. Perhaps my largest barrier to learning C++ in the first place was learning to not get overwhelmed by lengthy
+    messages and dissect which parts of the reports I understood and could look into.
