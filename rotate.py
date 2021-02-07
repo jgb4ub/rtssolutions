@@ -1,10 +1,10 @@
 #Using Python 3.9.1
 
 '''
-param1: integer input value for comparison
-param2: integer list
+param1: String to rotate
+param2: Integer value by which to rotate
 
-Compares param1 to each value in integer list. Prints number of values above and below param1 in list.
+Rotates param1 by the value input as param2.
 '''
 def rotate(string, rotation):
     if not rotation:
@@ -14,8 +14,20 @@ def rotate(string, rotation):
 
 #####   tests   #####
 
-#rotate('Farmers', 0)
+# rotate('Farmers', 0)
 
-#rotate('Farmers', 3)
+# rotate('Farmers', 3)
 
-#rotate('Farmers', -3)
+# rotate('Farmers', -3)
+
+# rotate('s', 0)
+
+# rotate('s', 3)
+
+# rotate('sdfg', -3)
+
+# rotate('', 0)
+
+# rotate('', 3)
+
+# rotate('', -3)
